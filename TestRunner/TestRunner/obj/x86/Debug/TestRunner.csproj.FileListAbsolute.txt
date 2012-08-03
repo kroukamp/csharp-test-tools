@@ -1,0 +1,5 @@
+C:\dev\c#\TestRunner\TestRunner\bin\Debug\TestRunner.exe
+C:\dev\c#\TestRunner\TestRunner\bin\Debug\TestRunner.pdb
+C:\dev\c#\TestRunner\TestRunner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dev\c#\TestRunner\TestRunner\obj\x86\Debug\TestRunner.exe
+C:\dev\c#\TestRunner\TestRunner\obj\x86\Debug\TestRunner.pdb
